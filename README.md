@@ -31,7 +31,7 @@
         "accessKeySecret": "your oss accessKeySecret",
         "bucket": "your oss bucket",
         "domain": "your oss domain",
-        "path": "offline save dir"
+        "path": "offline save dir path"
     }
 }
 ```
