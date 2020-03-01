@@ -21,17 +21,18 @@
 {
     "app": {
         "type": "app",
-        "appId": "your qdoo app id",
-        "appSecret": "your qdoo app secret"
+        "host":"offline host: cdn.iqudoo.com/app/",
+        "id": "your qdoo app id",
+        "secret": "your qdoo app secret"
     },
     "oss": {
-        "https":1,
+        "https": 1,
         "region": "oss-cn-beijing",
         "accessKeyId": "your oss accessKeyId",
         "accessKeySecret": "your oss accessKeySecret",
         "bucket": "your oss bucket",
         "domain": "your oss domain",
-        "path": "offline save dir path"
+        "path": "offline save dir path: /offline/app/"
     }
 }
 ```
