@@ -15,6 +15,8 @@
     --config              config file, def: ./qdoo-offline-config.json
     --upload              upload to oss
     --publish             upload to oss and publish
+    --debug               enable debug
+    --all                 un filter .js.map file
     --help                show help
 
 ```
