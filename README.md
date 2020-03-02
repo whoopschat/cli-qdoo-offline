@@ -9,12 +9,14 @@
 ### usage
 ```
 > cli-qdoo-offline --help
+
   Usage: cli-qdoo-offline [options]
-  --src                资源目录
-  --config             配置文件，默认: ./qdoo-offline-config.json
-  --upload             上传文件到oss
-  --publish            上传文件到oss并发布
-  --help               显示帮助信息
+    --src                 src dir
+    --config              config file, def: ./qdoo-offline-config.json
+    --upload              upload to oss
+    --publish             upload to oss and publish
+    --help                show help
+
 ```
 
 `qdoo-offline-config.json`
